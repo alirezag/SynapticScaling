@@ -39,7 +39,7 @@ build = {
    type = "builtin",
    modules = {
    
-    init = "init.lua",
+    init = "ssinit.lua",
     SynapticScaling = "SynapticScaling.lua",
       
    },
